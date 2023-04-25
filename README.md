@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mahima34443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahima34443" height="30" width="40" /></a>
-<a href="https://medium.com/mahima chandel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mahima chandel" height="30" width="40" /></a>
+<a href="https://medium.com/@mahimasingh0811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mahima chandel" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mahima0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahima0222" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mahimasingh0811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mahimasingh0811" height="30" width="40" /></a>
 </p>
