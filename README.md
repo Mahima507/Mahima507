@@ -1,9 +1,11 @@
 
 ![logo](https://github.com/Mahima507/Mahima507/blob/main/profile-banner.jpeg)
 
+
 <h1 align="center">Hi 👋, I'm Mahima Chandel</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3ec9bd64a4ed84c99dd6d5267e83217c748eb5a00a7f9c2f2ab7a20deaa8e60b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d76616e7368696b612d3133266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/3ec9bd64a4ed84c99dd6d5267e83217c748eb5a00a7f9c2f2ab7a20deaa8e60b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d76616e7368696b612d3133266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="vanshika-13" data-canonical-src="https://komarev.com/ghpvc/?username=vanshika-13&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mahima507](https://github.com/Mahima507)
