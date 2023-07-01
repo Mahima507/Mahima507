@@ -1,7 +1,4 @@
 
-![logo](https://github.com/Mahima507/Mahima507/blob/main/profile-banner.jpeg)
-
-
 <h1 align="center">Hi 👋, I'm Mahima Chandel</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
