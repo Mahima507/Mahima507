@@ -10,8 +10,6 @@
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
 </a>
-
-<br>
 <h3>Languages and Tools </h3> 
 <div style="display: inline_block">
   <p align="center">
@@ -36,7 +34,7 @@
     <a href="#">
       <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     </a>
-    <br><br>
+    <br>
     <a href="#">
       <img align="center" alt="Logo do C++" height="30" width="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     </a>
@@ -51,8 +49,6 @@
     </a>
   </p>
 </div>
-
-<br>
 <br> 
 <div> 
 <h3 align="left">Connect with me:</h3>
