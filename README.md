@@ -1,16 +1,13 @@
-
-<h1 align="center">Hi 👋, I'm Mahima Chandel</h1>
-<h2 align="center">A Passionate Full Stack Developer from India</h2>
-
+<h3 align="center" text-color="blue" >Hello World👋, I'm Mahima Chandel </h3>
+<h4 align="center">A Passionate Full Stack Developer from India</h4>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahima507&label=Profile%20views&color=0e75b6&style=flat" alt="Mahima507"/> </p>
 
 <meta name="description" content="GitHub profile in green color">
 <meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, React, Nodejs, HTML, CSS, Bootstrap, C++, C, Java, MySQL, MongoDB"/>
 
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
-</a>
+
 <h3>Languages and Tools </h3> 
+
 <div style="display: inline_block">
   <p align="center">
      <a href="#">
@@ -34,7 +31,6 @@
     <a href="#">
       <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     </a>
-    <br>
     <a href="#">
       <img align="center" alt="Logo do C++" height="30" width="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     </a>
@@ -70,16 +66,11 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahima507&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahima507&theme=tokyo-night"/>
 
+<h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahima507&theme=tokyo-night"/>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
 </a>
  
-<div> 
-  <p align="center">
-   
-  </p>
-</div>
