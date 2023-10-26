@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahima507&label=Profile%20views&color=0e75b6&style=flat" alt="Mahima507"/> </p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Mahima507" alt="Mahima507" /></a> </p>
-
 <meta name="description" content="GitHub profile in green color">
 <meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, React, Nodejs, HTML, CSS, Bootstrap, C++, C, Java, MySQL, MongoDB"/>
 
@@ -72,6 +70,9 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahima507&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Mahima507" alt="Mahima507" /></a> </p>
+
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
 </a>
