@@ -2,8 +2,11 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
 </a>
 <h1 align="center" text-color="blue" >Hello World👋, I'm Mahima Chandel </h1>
-<h2 align="center">A Passionate Full Stack Developer from India</h2>  
+<h2 align="center">A Passionate Full Stack Developer from India</h2> 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahima507&label=Profile%20views&color=0e75b6&style=flat" alt="Mahima507"/> </p>
+
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Mahima507" alt="Mahima507" /></a> </p>
 
 <meta name="description" content="GitHub profile in green color">
 <meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, React, Nodejs, HTML, CSS, Bootstrap, C++, C, Java, MySQL, MongoDB"/>
