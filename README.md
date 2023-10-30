@@ -4,6 +4,13 @@
 <h1 align="center" text-color="blue" >Hello World👋, I'm Mahima Chandel </h1>
 <h2 align="center">A Passionate Full Stack Developer from India</h2> 
 
+![image](https://github.com/Mahima507/Mahima507/assets/75236972/edf937cb-dae1-41a5-91d6-20fee2fcf48c)
+
+![image](https://github.com/Mahima507/Mahima507/assets/75236972/3157fb78-e55a-4a35-9e80-e7731c7fc441)
+
+![image](https://github.com/Mahima507/Mahima507/assets/75236972/99ae40b2-078b-49ac-9cf3-6550a906779f)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahima507&label=Profile%20views&color=0e75b6&style=flat" alt="Mahima507"/> </p>
 
 <meta name="description" content="GitHub profile in green color">
