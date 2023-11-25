@@ -1,7 +1,8 @@
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
 </a>
-<h1 align="center" text-color="blue" >Hello World👋, I'm Mahima Chandel </h1>
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h1 align="center" text-color="blue" >👋, I'm Mahima Chandel </h1>
 <h2 align="center">A Passionate Full Stack Developer from India</h2> 
 
 ![image](https://github.com/Mahima507/Mahima507/assets/75236972/edf937cb-dae1-41a5-91d6-20fee2fcf48c)
