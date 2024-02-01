@@ -3,8 +3,26 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Program+or+be+programmed)](https://git.io/typing-svg)
+
 <h1 align="center" text-color="blue" > I'm Mahima Chandel </h1>
 <h2 align="center">A Passionate Full Stack Developer from India</h2> 
+
+<br> 
+<div> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/mahima-chandel-819606204/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mahima-chandel" height="30" width="40" />
+</a>
+<a href="https://medium.com/@mahimasingh0811" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahimasingh0811" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/Mahima0222/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Mahima0222/" height="30" width="40" /></a>
+
+</p>
+</div>
 
 ![image](https://github.com/Mahima507/Mahima507/assets/75236972/edf937cb-dae1-41a5-91d6-20fee2fcf48c)
 
@@ -58,16 +76,7 @@
     </a>
   </p>
 </div>
-<br> 
-<div> 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mahima-chandel-819606204/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mahima-chandel" height="30" width="40" />
-</a>
-<a href="https://medium.com/@mahimasingh0811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahimasingh0811" height="30" width="40" /></a>
-</p>
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
