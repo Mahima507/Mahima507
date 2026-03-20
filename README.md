@@ -12,37 +12,32 @@
 </p>
 
 ---
+
 ## 🔗 Connect with Me
 <p align="center">
 
-<a href="https://linkedin.com/in/mahima0811" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<a href="https://linkedin.com/in/mahima0811">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
 
-<a href="https://github.com/Mahima507" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+<a href="https://github.com/Mahima507">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
 
-<a href="https://leetcode.com/Mahima0222/" target="_blank">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="40"/>
+<a href="https://leetcode.com/Mahima0222/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-&nbsp;&nbsp;
 
-<a href="https://www.geeksforgeeks.org/profile/mahimasingh0811" target="_blank">
-  <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="40"/>
+<a href="https://www.geeksforgeeks.org/profile/mahimasingh0811">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
 
-<a href="https://www.hackerrank.com/profile/mahimasingh0811" target="_blank">
-  <img src="https://img.icons8.com/color/48/hackerrank.png" height="40"/>
+<a href="https://www.hackerrank.com/profile/mahimasingh0811">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
 
-
-<a href="https://medium.com/@mahimasingh0811" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/medium-monogram.png" height="40"/>
+<a href="https://medium.com/@mahimasingh0811">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 </p>
