@@ -1,97 +1,135 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/></a>
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Program+or+be+programmed)](https://git.io/typing-svg)
-
-<h1 align="center" text-color="blue" > I'm Mahima Chandel </h1>
-<h2 align="center">A Passionate Full Stack Developer from India</h2> 
-
-<br> 
-<div> 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/mahima-chandel-819606204/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mahima-chandel" height="30" width="40" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header&text=Mahima%20Chandel&fontSize=35&fontColor=ffffff"/>
 </a>
-<a href="https://medium.com/@mahimasingh0811" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mahimasingh0811" height="30" width="40" /></a>
 
-<a href="https://leetcode.com/Mahima0222/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Mahima0222/" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm Mahima Chandel</h1>
+<h3 align="center">Full Stack Developer | DSA Enthusiast | Problem Solver</h3>
+
+<p align="center">
+  🚀 B.Tech CSE Graduate | MERN Stack | DevOps <br>
+  💡 Passionate about building scalable applications & solving complex problems <br>
+  🎯 Focused on cracking top product-based companies
+</p>
+
+---
+## 🔗 Connect with Me
+<p align="center">
+
+<a href="https://linkedin.com/in/mahima0811" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://github.com/Mahima507" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/Mahima0222/" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="40"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.geeksforgeeks.org/profile/mahimasingh0811" target="_blank">
+  <img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="40"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com/profile/mahimasingh0811" target="_blank">
+  <img src="https://img.icons8.com/color/48/hackerrank.png" height="40"/>
+</a>
+&nbsp;&nbsp;
+
+
+<a href="https://medium.com/@mahimasingh0811" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/medium-monogram.png" height="40"/>
+</a>
 
 </p>
-</div>
-
-![image](https://github.com/Mahima507/Mahima507/assets/75236972/edf937cb-dae1-41a5-91d6-20fee2fcf48c)
-
-![image](https://github.com/Mahima507/Mahima507/assets/75236972/3157fb78-e55a-4a35-9e80-e7731c7fc441)
-
-![image](https://github.com/Mahima507/Mahima507/assets/75236972/99ae40b2-078b-49ac-9cf3-6550a906779f)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahima507&label=Profile%20views&color=0e75b6&style=flat" alt="Mahima507"/> </p>
+---
 
-<meta name="description" content="GitHub profile in green color">
-<meta name="keywords" content="Full Stack Developer, GitHub Stats, GitHub Profile, JavaScript, React, Nodejs, HTML, CSS, Bootstrap, C++, C, Java, MySQL, MongoDB"/>
+## 🧠 About Me
+- 💻 Strong in **Data Structures & Algorithms**
+- ⚙️ Experienced in **Full Stack Development (React, Node.js)**
+- 📊 Active on coding platforms (LeetCode, GFG, HackerRank, HackerEarth)
+- ✍️ Sharing knowledge through technical writing on Medium
+- 🚀 Focused on writing **clean, optimized, scalable code**
 
+---
 
-<h3>Languages and Tools </h3> 
+## 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,mongodb,mysql,git,github,docker" />
+</p>
 
-<div style="display: inline_block">
-  <p align="center">
-     <a href="#">
-      <img align="center" alt="Logo do Java" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do React" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do Nodejs" height="30" width="40" title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do HTML5" height="30" width="40" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do CSS3" height="30" width="40" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do C++" height="30" width="40" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do C" height="30" width="40" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-    </a>
-    <a href="#">
-      <img align="center" alt="Logo do MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-    </a>
-  </p>
-</div>
+---
 
+## 📌 Featured Projects
+🔹 **Crypto Ranker**  
+- Real-time cryptocurrency tracking web app  
+- Built with React, Node.js, Chart.js  
+- API integration & dynamic UI  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/Mahima507">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahima507&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahima507&theme=city_lights" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahima507&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahima507&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahima507&theme=2077" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+🔹 **Spider Forest Game**  
+- Java-based arcade game using OOP & Swing  
+- 100+ downloads in first month  
+
+---
+
+## 📊 Coding Stats
+
+<p align="center">
   
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Mahima507" alt="Mahima507" /></a> </p>
+<img src="https://leetcard.jacoblin.cool/Mahima0222?theme=dark&font=Nunito&ext=contest" />
+
+</p>
+
+<p align="center">
+  
+<img src="https://img.shields.io/badge/LeetCode-550%2B%20Problems-orange?style=for-the-badge&logo=leetcode" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-469%20Problems-green?style=for-the-badge&logo=geeksforgeeks" />
+
+</p>
+
+<p align="center">
+💻 Solved 1000+ problems across LeetCode & GeeksforGeeks, focusing on DSA, optimization, and pattern recognition
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mahima507&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahima507&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahima507&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Achievements
+- 🥇 NCC 'C' Certificate Holder  
+- 🥈 2nd Rank - TechQuezt (NaukriCampus)  
+- 🏅 Hacktoberfest Contributor  
+- 🧠 Red Hat Aptitude Test - 83rd Percentile  
+
+---
+
+## 🎯 Current Focus
+- Solving **DSA problems daily**
+- Improving **system design fundamentals**
+- Preparing for **product-based companies**
+
+---
+
+<p align="center">
+  ⭐ Consistency + Problem Solving = Growth
+</p>
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </a>
- 
